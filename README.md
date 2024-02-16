@@ -1,5 +1,6 @@
-# Hash-Generator
+
 <div align='center'>
+  <h1>Hash-Generator</h1>
 <p>Hash Generator is a simple tool to generate hash from plaintext. It supports more than ten hashing algorithms and is user friendly.</p>
 <img src="https://github.com/L101111/Hash-Generator/blob/main/screen.png" width="650px" />
 </div>
