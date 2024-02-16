@@ -5,8 +5,19 @@
 <img src="https://github.com/L101111/Hash-Generator/blob/main/screen.png" width="650px" />
 </div>
 
+# Installation & Usage
 
-<center><h1>Supported Algorithms</h1></center>
+git clone https://github.com/L101111/Hash-Generator
+
+python3 hash-gen.py
+
+python3 hash-gen.py help
+
+python3 hash-gen.py --help
+
+python3 hash-gen.py -h
+
+# Supported Algorithms
 <ul> 
 <li>MD5</li>
 <li>SHA1</li>
@@ -24,7 +35,7 @@
 <li>SHAKE256</li>
 </ul>
 
-</center><h1>Platforms tested on</h1></center>
+# Platforms tested on
 <li>Windows</li>
 <li>Ubuntu</li>
 <li>Debian</li>
