@@ -7,15 +7,15 @@
 
 # Installation & Usage
 
-git clone https://github.com/L101111/Hash-Generator
-
-python3 hash-gen.py
-
-python3 hash-gen.py help
-
-python3 hash-gen.py --help
-
-python3 hash-gen.py -h
+    git clone https://github.com/L101111/Hash-Generator
+    
+    python3 hash-gen.py
+    
+    python3 hash-gen.py help
+    
+    python3 hash-gen.py --help
+    
+    python3 hash-gen.py -h
 
 # Supported Algorithms
 <ul> 
